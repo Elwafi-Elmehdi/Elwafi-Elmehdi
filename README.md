@@ -37,7 +37,7 @@ services:
         providers:
             - AWS
             - Azure
-            - DigitalOciean
+            - DigitalOcean
     administration:
         systems:
             - Linux
