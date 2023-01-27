@@ -7,7 +7,11 @@ alias: Mehdi4J
 
 locations: [Morocco🇲🇦]
 
-hobbies: [Reading Books📚, Jogging🏃🏻, Classical Music🎼, Socializing🗣]
+hobbies:
+    - Reading Books📚
+    - Jogging🏃🏻
+    - Classical Music🎼
+    - Socializing🗣
 
 links: [mehdi4j.online]
 
@@ -17,13 +21,29 @@ contacts:
 
 services:
     programming:
-        technologies: [C, Java, Javascript, Python, Bash]
+        technologies:
+            - C
+            - Java
+            - Javascript
+            - Python
+            - Bash
     web:
-        technologies: [HTML, CSS, Javascript, Angular]
+        technologies:
+            - HTML
+            - CSS
+            - Javascript
+            - Angular
     cloud:
-        providers: [AWS, Azure, DigitalOciean]
+        providers:
+            - AWS
+            - Azure
+            - DigitalOciean
     administration:
-        systems: [Linux, Unix]
+        systems:
+            - Linux
+            - Proxmox VE
+    automations:
+        tools: [Bash, Terraform]
 
 certifications: [Terraform, AWS CP]
 ```
