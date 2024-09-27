@@ -13,7 +13,7 @@ hobbies:
     - Classical Music🎼
     - Socializing🗣
 
-links: [mehdi4j.online]
+links: [mehdij4.com]
 
 contacts:
     email: elwafi.courrier99@gmail.com
